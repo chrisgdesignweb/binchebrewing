@@ -566,3 +566,8 @@ background-position: center center;
 strong {
     font-weight: 400;
 }
+
+.hometext {
+    padding-top: 10px;
+    margin: 0;
+}
